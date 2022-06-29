@@ -28,5 +28,5 @@ The following image shows the web application's appearance and functionality: <i
 
 
 URLs
-Deployed application: https://alyak66.github.io/Weather-Dashboard-KS/
+Deployed application: https://alyak66.github.io/Weather-Dash-App/
 GitHub repository: https://github.com/alyak66/Weather-Dashboard-KS/
